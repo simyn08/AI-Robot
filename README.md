@@ -1,33 +1,60 @@
-# 07. Resources
+# Library AI Robot Research
 
-도서관 AI 로봇 연구와 관련하여 지속적으로 참고·추적할 연구기관, 학회, 프로젝트, 기업, 웹사이트 및 미디어 자료를 정리합니다.
+도서관 AI 로봇의 연구 동향, 적용 사례, 관련 기술 및 연구자료를 체계적으로 수집·정리하기 위한 연구 저장소입니다.
 
-## Categories
+## Research Topics
 
-### 01. Library Innovation
+- Library AI Robot
+- Physical AI
+- Human-Robot Interaction (HRI)
+- Library Automation
+- RFID-based Inventory
+- Autonomous Navigation
+- Robot Arm
+- AI-based Library Services
 
-국내·외 도서관의 AI, 로봇, 자동화 및 미래형 도서관 서비스 관련 사이트
+---
 
-### 02. Research Institutes
+## Repository Structure
 
-AI, 로봇, 도서관 기술 관련 국내·외 연구기관
+### 01. Literature
 
-### 03. Academic Societies
+도서관 AI 로봇 관련 국내·외 논문 및 연구자료
 
-도서관, AI, 로봇, HRI 등 관련 학회 및 학술단체
+### 02. Library Cases
 
-### 04. Robot Projects
+국내·외 도서관의 AI·로봇 도입 사례
 
-도서관 및 서비스 로봇 관련 연구 프로젝트
+### 03. Robot Technology
 
-### 05. Robot Companies
+장서점검, 도서운반, 자율주행, 로봇팔 등 관련 기술
 
-도서관 적용 가능성이 있는 로봇 기업 및 제품
+### 04. Library Services
 
-### 06. GitHub Repositories
+AI 로봇을 적용할 수 있는 도서관 업무 및 서비스
 
-AI, 로봇, 자율주행, HRI 등 관련 오픈소스 GitHub 프로젝트
+### 05. Research Data
 
-### 07. Videos & Media
+설문조사 및 연구 데이터
 
-도서관 AI 로봇 관련 영상, 발표자료 및 미디어 콘텐츠
+### 06. Research Notes
+
+연구 아이디어와 향후 연구주제
+
+### 07. Resources
+
+관련 연구기관, 학회, 프로젝트 및 웹사이트
+
+---
+
+## Research Keywords
+
+`Library Robot` `AI Robot` `Physical AI` `HRI` `RFID`  
+`Autonomous Navigation` `Library Automation` `Academic Library`
+
+---
+
+## Purpose
+
+이 저장소는 도서관 AI 로봇 관련 연구자료와 사례를 지속적으로 축적하고,
+향후 대학도서관 AI 로봇 연구 및 서비스 모델 개발을 위한 연구 아카이브로 활용하는 것을 목적으로 합니다.
