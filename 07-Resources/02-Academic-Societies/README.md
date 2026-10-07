@@ -1,0 +1,29 @@
+# 02. Academic Societies
+
+도서관 AI 로봇 연구와 관련된 국내·외 학회 및
+학술 커뮤니티를 정리합니다.
+
+## Library & Information Science
+
+- 한국문헌정보학회
+- 한국도서관·정보학회
+- 한국비블리아학회
+- 한국정보관리학회
+
+## AI, Robot & Digital Technology
+
+- 한국로봇학회
+- 한국HCI학회
+- 한국디지털콘텐츠학회
+- 한국인공지능학회
+
+## Service Research
+
+- 서비스사이언스학회
+
+## International Research Communities
+
+- ACM
+- IEEE
+- IEEE Robotics and Automation Society
+- ACM/IEEE Human-Robot Interaction (HRI)
