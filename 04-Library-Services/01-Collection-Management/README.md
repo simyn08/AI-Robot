@@ -35,12 +35,14 @@ Computer Vision과 Robot Arm을 활용하여
 
 ## Required Technologies
 
-- RFID
-- Autonomous Navigation
-- Computer Vision
-- Robot Arm
-- AI
-- Library Management System
+| Technology | 한국어 | 장서관리에서의 활용 |
+|---|---|---|
+| **RFID** | 무선주파수인식 | RFID 태그를 이용하여 도서를 식별하고 장서점검, 오배가·분실 자료 탐지 및 위치 확인에 활용 |
+| **Autonomous Navigation** | 자율주행 | 로봇이 도서관 내부와 서가 사이를 스스로 이동하며 장서점검, 도서 운반 및 배가 업무를 수행하도록 지원 |
+| **Computer Vision** | 컴퓨터 비전 | 카메라 영상을 분석하여 도서, 서가, 청구기호 및 주변 환경을 인식하고 도서 위치 확인과 배가 상태 점검에 활용 |
+| **Robot Arm** | 로봇팔 | 도서를 집고 이동하거나 서가에 넣고 꺼내는 작업을 수행하여 도서 정리·배가 업무를 지원 |
+| **AI** | 인공지능 | 수집된 정보를 분석하여 도서 식별, 위치 판단, 작업 계획 및 로봇의 자율적인 의사결정을 지원 |
+| **Library Management System** | 도서관 관리 시스템 | 소장·대출·반납·도서 위치 등의 도서관 데이터를 로봇과 연계하여 장서 상태 확인 및 자동화된 업무 수행을 지원 |
 
 ## Expected Benefits
 
