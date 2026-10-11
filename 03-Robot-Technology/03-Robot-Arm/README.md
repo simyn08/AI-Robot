@@ -16,12 +16,12 @@
 
 ## Core Technologies
 
-- Collaborative Robot Arm
-- Robotic Gripper
-- Force Sensor
-- Motion Planning
-- Object Manipulation
-- Visual Servoing
+- Collaborative Robot Arm – Safe human-robot collaboration for book handling
+- Robotic Gripper – Grasping and releasing books
+- Force Sensor – Force control for safe and stable book handling
+- Motion Planning – Collision-free motion planning for robotic arms
+- Object Manipulation – Grasping, moving, and placing books
+- Visual Servoing – Vision-based control for precise robotic manipulation
 
 ## Technical Challenges
 
