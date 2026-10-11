@@ -30,9 +30,11 @@
 
 ## Related Models
 
-- TAM
-- NARS
-- Self-Efficacy in HRI
+| Model / Scale | Full Name | 한국어 | 의미 및 도서관 AI 로봇 연구에서의 활용 |
+|---|---|---|---|
+| **TAM** | Technology Acceptance Model | 기술수용모형 | 새로운 기술을 이용자가 얼마나 유용하고 사용하기 쉽다고 인식하는지가 기술의 이용 의도와 실제 사용에 영향을 미친다고 설명하는 모형. 도서관 AI 로봇의 유용성, 사용 편의성 및 이용 의도를 분석하는 데 활용 |
+| **NARS** | Negative Attitudes toward Robots Scale | 로봇에 대한 부정적 태도 척도 | 사람이 로봇이나 로봇과의 상호작용에 대해 갖는 부정적 태도와 심리적 거부감을 측정하는 척도. 도서관 이용자가 AI 로봇과의 상호작용이나 로봇의 사회적 영향에 대해 느끼는 불안·거부감 등을 분석하는 데 활용 |
+| **Self-Efficacy in HRI** | Self-Efficacy in Human-Robot Interaction | 인간-로봇 상호작용 자기효능감 | 이용자가 로봇과 성공적으로 상호작용하고 필요한 기능을 사용할 수 있다고 스스로 믿는 정도. 도서관 이용자가 로봇에게 질문하거나 검색·안내 등의 서비스를 스스로 이용할 수 있다는 자신감을 분석하는 데 활용 |
 
 ## Library Applications
 
