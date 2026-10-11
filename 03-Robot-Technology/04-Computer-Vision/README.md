@@ -16,12 +16,14 @@
 
 ## Core Technologies
 
-- Object Detection
-- OCR
-- Image Recognition
-- Deep Learning
-- Depth Camera
-- 3D Vision
+| Technology | Korean | Application in Library AI Robots |
+|---|---|---|
+| **Object Detection** | 객체 탐지 | Detects and locates books, shelves, users, and other objects in the library environment |
+| **OCR (Optical Character Recognition)** | 광학 문자 인식 | Recognizes book titles, call numbers, and shelf labels from images |
+| **Image Recognition** | 이미지 인식 | Identifies and classifies books, shelves, signs, and other visual information |
+| **Deep Learning** | 딥러닝 | Enables AI-based learning for object detection, image recognition, and intelligent decision-making |
+| **Depth Camera** | 깊이 카메라 | Measures the distance and depth of objects for navigation, book detection, and manipulation |
+| **3D Vision** | 3D 비전 | Understands the three-dimensional structure and spatial relationships of books, shelves, and surrounding objects |
 
 ## Library-Specific Challenges
 
