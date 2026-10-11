@@ -52,6 +52,9 @@ Computer Vision과 Robot Arm을 활용하여
 
 ## Related Robot Cases
 
+도서관의 장서점검, 배가, 정리 및 도서 운반 등
+장서관리 업무의 자동화를 지원하는 주요 로봇 및 시스템 사례
+
 | Robot / System | Type | Application to Collection Management |
 |---|---|---|
 | **AuRoSS** | Inventory Robot | RFID 기반 장서점검, 오배가 및 분실 자료 탐지 |
