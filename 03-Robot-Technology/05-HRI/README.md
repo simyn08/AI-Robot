@@ -36,6 +36,10 @@
 | **NARS** | Negative Attitudes toward Robots Scale | 로봇에 대한 부정적 태도 척도 | 사람이 로봇이나 로봇과의 상호작용에 대해 갖는 부정적 태도와 심리적 거부감을 측정하는 척도. 도서관 이용자가 AI 로봇과의 상호작용이나 로봇의 사회적 영향에 대해 느끼는 불안·거부감 등을 분석하는 데 활용 |
 | **Self-Efficacy in HRI** | Self-Efficacy in Human-Robot Interaction | 인간-로봇 상호작용 자기효능감 | 이용자가 로봇과 성공적으로 상호작용하고 필요한 기능을 사용할 수 있다고 스스로 믿는 정도. 도서관 이용자가 로봇에게 질문하거나 검색·안내 등의 서비스를 스스로 이용할 수 있다는 자신감을 분석하는 데 활용 |
 
+  TAM은 말 그대로 **Model(모형)**입니다. 대표적으로 Perceived Usefulness(지각된 유용성), Perceived Ease of Use(지각된 사용용이성), Behavioral Intention(행동의도) 등의 관계를 설명합니다.
+  NARS는 엄밀히 말하면 연구모형이라기보다는 **Scale(척도)**입니다. 로봇에 대한 사람의 부정적인 태도를 측정하기 위해 사용합니다.
+  Self-Efficacy in HRI 역시 TAM처럼 하나의 완성된 기술수용모형이라기보다는 HRI 상황에서 개인의 자기효능감을 측정하는 개념 또는 척도에 가깝습니다.
+
 ## Library Applications
 
 - 시설 안내
