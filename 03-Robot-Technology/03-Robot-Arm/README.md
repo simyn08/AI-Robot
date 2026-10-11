@@ -14,14 +14,16 @@
 - 서가정리
 - 오배가 도서 이동
 
-## Core Technologies
+## 🤖 Robotic Arm & Manipulation Technologies
 
-- Collaborative Robot Arm – Safe human-robot collaboration for book handling
-- Robotic Gripper – Grasping and releasing books
-- Force Sensor – Force control for safe and stable book handling
-- Motion Planning – Collision-free motion planning for robotic arms
-- Object Manipulation – Grasping, moving, and placing books
-- Visual Servoing – Vision-based control for precise robotic manipulation
+| Technology | Korean | Application in Library AI Robots |
+|---|---|---|
+| **Collaborative Robot Arm** | 협동 로봇팔 | 사람과 같은 공간에서 안전하게 작업하며 도서를 집거나 이동시키는 로봇팔 |
+| **Robotic Gripper** | 로봇 그리퍼(집게) | 책을 잡고 놓거나 이동시키는 로봇팔의 말단 장치 |
+| **Force Sensor** | 힘 센서 / 힘·토크 센서 | 책을 잡을 때 가해지는 힘을 감지하여 도서 손상을 방지하고 안정적으로 조작 |
+| **Motion Planning** | 동작 계획 | 로봇팔이 충돌 없이 목표 위치까지 움직일 수 있도록 동작 경로를 계획 |
+| **Object Manipulation** | 객체 조작 | 책을 집고, 이동하고, 원하는 위치에 배치하는 로봇 조작 기술 |
+| **Visual Servoing** | 시각 기반 제어 | 카메라의 실시간 영상 정보를 이용하여 로봇팔의 위치와 움직임을 정밀하게 제어 |
 
 ## Technical Challenges
 
