@@ -7,26 +7,26 @@
 
 ## Interaction Methods
 
-| Interaction Method | Korean | Application in Library AI Robots |
+| Interaction Method | 한국어 | 의미 및 도서관 AI 로봇에서의 활용 |
 |---|---|---|
-| **Voice Interaction** | 음성 상호작용 | Enables users to search for books, ask questions, and receive library information through natural language conversation |
-| **Touch Screen** | 터치스크린 | Allows users to search resources, select services, and access library information through direct touch input |
-| **Gesture Interaction** | 제스처 상호작용 | Uses human or robot gestures for intuitive communication, direction guidance, and simple commands |
-| **Robot Facial Expression** | 로봇 표정 표현 | Expresses the robot's status or responses visually to improve friendliness and social interaction |
-| **Visual Interface** | 시각적 인터페이스 | Displays search results, book information, call numbers, maps, and navigation guidance |
-| **Multimodal Interaction** | 멀티모달 상호작용 | Combines voice, touch, visual information, and gestures to provide flexible and intuitive human-robot interaction |
+| **Voice Interaction** | 음성 상호작용 | 이용자의 음성을 인식하고 자연어로 응답하는 방식으로, 도서 검색, 자료 위치 안내, 이용시간 및 대출 규정 등의 질문에 음성으로 응답하는 데 활용 |
+| **Touch Screen** | 터치스크린 | 이용자가 로봇의 화면을 직접 터치하여 메뉴를 선택하거나 정보를 검색하는 방식으로, 자료 검색, 층별 안내, 서비스 선택 등에 활용 |
+| **Gesture Interaction** | 제스처 상호작용 | 이용자의 손짓이나 몸동작을 로봇이 인식하거나 로봇이 동작을 통해 정보를 전달하는 방식으로, 방향 안내, 이용자 호출, 간단한 의사 표현 등에 활용 |
+| **Robot Facial Expression** | 로봇 표정 표현 | 로봇의 디스플레이, 눈, 얼굴 등을 통해 감정이나 작동 상태를 시각적으로 표현하여 이용자에게 친밀감과 사회적 존재감을 제공 |
+| **Visual Interface** | 시각적 인터페이스 | 화면을 통해 텍스트, 이미지, 아이콘, 지도, 검색 결과 등을 제공하는 방식으로, 도서 정보, 청구기호, 서가 위치 및 길찾기 안내 등에 활용 |
+| **Multimodal Interaction** | 멀티모달 상호작용 | 음성, 터치, 시각 정보, 제스처 등 여러 상호작용 방식을 결합하여 이용자와 상황에 적합한 직관적이고 유연한 의사소통을 지원 |
 
 ## Research Topics
 
-| Research Topic | Korean | Application in Library AI Robot Research |
+| Research Topic | 한국어 | 의미 및 도서관 AI 로봇 연구에서의 활용 |
 |---|---|---|
-| **Robot Acceptance** | 로봇 수용성 | Examines users' willingness and intention to accept and use AI robots in library services |
-| **Trust** | 신뢰 | Investigates whether users perceive the robot's information, decisions, and behaviors as reliable and safe |
-| **Usability** | 사용성 | Evaluates how easy, efficient, and convenient the robot and its interface are to use |
-| **Perceived Usefulness** | 지각된 유용성 | Examines whether users believe that using the robot improves the efficiency and convenience of library services |
-| **Social Presence** | 사회적 실재감 | Examines the extent to which users perceive the robot as a social and interactive presence rather than simply a machine |
-| **Robot Anxiety** | 로봇 불안 | Investigates anxiety, discomfort, or psychological burden experienced when interacting with robots |
-| **User Experience (UX)** | 사용자 경험 | Evaluates users' overall experience with the robot, including satisfaction, convenience, emotions, engagement, and impressions |
+| **Robot Acceptance** | 로봇 수용성 | 이용자가 도서관 AI 로봇을 긍정적으로 받아들이고 실제 서비스에 활용하려는 정도를 의미하며, 로봇 도입 및 이용 의도 등을 분석하는 데 활용 |
+| **Trust** | 신뢰 | 이용자가 로봇이 제공하는 정보와 행동을 정확하고 안전하며 신뢰할 수 있다고 인식하는 정도로, 로봇 서비스의 지속적 이용과 수용에 영향을 미치는 요인 |
+| **Usability** | 사용성 | 로봇의 기능과 인터페이스가 배우기 쉽고 효율적이며 편리하게 사용할 수 있는지를 평가하는 개념으로, 로봇 서비스 및 인터페이스 개선에 활용 |
+| **Perceived Usefulness** | 지각된 유용성 | 로봇을 이용하는 것이 자료 검색, 위치 안내, 정보서비스 등 도서관 이용의 효율성과 편의성을 향상시킨다고 이용자가 인식하는 정도 |
+| **Social Presence** | 사회적 실재감 | 이용자가 로봇을 단순한 기계가 아니라 자신과 상호작용하는 사회적 존재로 인식하는 정도로, 로봇과 이용자 간 관계 및 상호작용 경험을 분석하는 데 활용 |
+| **Robot Anxiety** | 로봇 불안 | 로봇과 상호작용하거나 로봇 서비스를 이용하는 과정에서 느끼는 불안, 긴장, 두려움 또는 심리적 부담을 의미하며, 로봇 수용을 저해하는 요인을 분석하는 데 활용 |
+| **User Experience (UX)** | 사용자 경험 | 로봇을 이용하는 전체 과정에서 형성되는 만족도, 편리성, 감정, 흥미, 몰입 및 전반적인 인상을 종합적으로 평가하는 개념 |
 
 ## Related Models
 
