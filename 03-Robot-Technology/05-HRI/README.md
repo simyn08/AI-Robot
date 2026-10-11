@@ -15,15 +15,18 @@
 | **Robot Facial Expression** | 로봇 표정 표현 | Expresses the robot's status or responses visually to improve friendliness and social interaction |
 | **Visual Interface** | 시각적 인터페이스 | Displays search results, book information, call numbers, maps, and navigation guidance |
 | **Multimodal Interaction** | 멀티모달 상호작용 | Combines voice, touch, visual information, and gestures to provide flexible and intuitive human-robot interaction |
+
 ## Research Topics
 
-- Robot Acceptance
-- Trust
-- Usability
-- Perceived Usefulness
-- Social Presence
-- Robot Anxiety
-- User Experience
+| Research Topic | Korean | Application in Library AI Robot Research |
+|---|---|---|
+| **Robot Acceptance** | 로봇 수용성 | Examines users' willingness and intention to accept and use AI robots in library services |
+| **Trust** | 신뢰 | Investigates whether users perceive the robot's information, decisions, and behaviors as reliable and safe |
+| **Usability** | 사용성 | Evaluates how easy, efficient, and convenient the robot and its interface are to use |
+| **Perceived Usefulness** | 지각된 유용성 | Examines whether users believe that using the robot improves the efficiency and convenience of library services |
+| **Social Presence** | 사회적 실재감 | Examines the extent to which users perceive the robot as a social and interactive presence rather than simply a machine |
+| **Robot Anxiety** | 로봇 불안 | Investigates anxiety, discomfort, or psychological burden experienced when interacting with robots |
+| **User Experience (UX)** | 사용자 경험 | Evaluates users' overall experience with the robot, including satisfaction, convenience, emotions, engagement, and impressions |
 
 ## Related Models
 
