@@ -17,6 +17,11 @@
 - Pages: 61–62
 - ISSN: 2636-0403
 
+#### 국내외 도서관 로봇 도입 현황
+
+<img width="1288" height="553" alt="image" src="https://github.com/user-attachments/assets/86e7cc04-b718-4b59-9e63-955be92bf51c" />
+
+
 **Keywords**
 
 `Library AI Robot` `Library Service` `AI` `Robot`
