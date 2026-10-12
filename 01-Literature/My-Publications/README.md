@@ -21,6 +21,9 @@
 
 <img width="1278" height="457" alt="image" src="https://github.com/user-attachments/assets/8be921c7-21dd-449d-a6db-e17686251f60" />
 
+#### 인공지능 기술 적용 및 구현 형태에 따른 분류
+<img width="1043" height="451" alt="image" src="https://github.com/user-attachments/assets/25d333f6-44b2-4185-be43-e1b1da96535a" />
+
 **Keywords**
 
 `Library AI Robot` `Library Service` `AI` `Robot`
