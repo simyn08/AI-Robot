@@ -41,6 +41,9 @@ We summarize the main roles of library robots as: robots for navigation, book lo
 Barriers towards robotic acceptance was found to be: anxiety and fear among librarians of being replaced by robots; the lack of resources (time, money, space) 
 for maintaining a robot and the cost of organizational restructuring; maintaining the enthusiasm around it over time; and the patrons’ need for human contact.
 
+도서관 로봇의 주요 역할을 길찾기·도서 위치 탐색 및 배가, 정보 안내, 교육 지원으로 구분하고 관련 연구를 분석하였다. 
+또한 로봇 도입 시 기술적 요인뿐 아니라 사서의 직무 대체 우려, 유지관리 비용, 이용자의 인간적 상호작용 요구 등 문화·조직적 장벽을 함께 고려해야 함을 제시하였다
+
 
 #### Relevance to Library Robot Research
 
