@@ -19,8 +19,7 @@
 
 #### 국내외 도서관 로봇 도입 현황
 
-<img width="1288" height="553" alt="image" src="https://github.com/user-attachments/assets/86e7cc04-b718-4b59-9e63-955be92bf51c" />
-
+<img width="1278" height="457" alt="image" src="https://github.com/user-attachments/assets/8be921c7-21dd-449d-a6db-e17686251f60" />
 
 **Keywords**
 
